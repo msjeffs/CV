@@ -9,4 +9,12 @@ Github has become a critical tool used in industry to rapidly produce projects. 
 #### Git and Github are not the same thing
 The first thing to know about this subject is Git and GitHub are different. Git is used as a control system and is used as tool manage your source code history. Github is a hosting service for Git repositories.  
 Git - the tool  
-GitHub - Location where Git repositories(projects) are used.   
+GitHub - Location where Git repositories(projects) are used.  
+
+###Git
+
+###Github
+
+###Resources
+
+Tutorial for (Git Branching)[https://learngitbranching.js.org/]
