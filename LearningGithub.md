@@ -11,10 +11,10 @@ The first thing to know about this subject is Git and GitHub are different. Git 
 Git - the tool  
 GitHub - Location where Git repositories(projects) are used.  
 
-###Git
+### Git
 
-###Github
+### Github
 
-###Resources
+### Resources
 
 Tutorial for (Git Branching)[https://learngitbranching.js.org/]
