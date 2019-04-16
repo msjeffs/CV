@@ -19,4 +19,4 @@ GitHub - Location where Git repositories(projects) are used.
 
 ### Resources
 
-Tutorial for [Git Branchin](https://learngitbranching.js.org/)
+Tutorial for [Git Branching](https://learngitbranching.js.org/)
