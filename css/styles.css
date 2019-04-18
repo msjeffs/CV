@@ -1,0 +1,18 @@
+/*
+My first CSS page
+*/
+body {
+  background-color: #e7eaf6;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: lightgrey;
+  width: 5%
+}
+
+img {
+
+}
