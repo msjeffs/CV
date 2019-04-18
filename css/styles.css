@@ -5,6 +5,14 @@ body {
   background-color: #e7eaf6;
 }
 
+h1 {
+  color: #113f67
+}
+
+h3 {
+  color: #113f67
+}
+
 hr {
   border-style: none;
   border-top-style: dotted;
